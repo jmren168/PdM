@@ -1,4 +1,4 @@
-# This repository includes some popular ML models applied to next-run failure (NRF) prediction in predictive maintenance (預防性維護).
+# This repository includes some popular ML models applied to next-run failure (NRF) prediction in predictive maintenance.
 Rule-based Methods
   1. Decision Tree
   2. Random Forest
